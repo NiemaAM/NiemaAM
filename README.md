@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 All of my projects are available on [Github](Github)
-
-- 📫 How to reach me **niema.ama@gmail.com**
-
 # Languages and Tools:
 ### 📱 Mobile
 [![Android](https://img.shields.io/badge/Android-API%20Level%2034-green.svg)](https://developer.android.com)
