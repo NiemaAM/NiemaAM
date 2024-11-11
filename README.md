@@ -1,19 +1,3 @@
-
-<!--
-**NiemaAM/NiemaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm NAM</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
@@ -23,9 +7,47 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **niema.ama@gmail.com**
 
-- ⚡ Fun fact **I do digital art and i like Guinea pigs!**
+# Languages and Tools:
+### Mobile
+[![Android](https://img.shields.io/badge/Android-API%20Level%2034-green.svg)](https://developer.android.com)
+[![Flutter](https://img.shields.io/badge/Flutter-3.13-blue.svg)](https://flutter.dev)
+[![React Native](https://img.shields.io/badge/React%20Native-0.73-blue.svg)](https://reactnative.dev)
+[![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://developer.apple.com/swift/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Web
+[![Node.js](https://img.shields.io/badge/Node.js-20-green.svg)](https://nodejs.org)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.4-blueviolet.svg)](https://getbootstrap.com)
+[![React](https://img.shields.io/badge/React-18.2-blue.svg)](https://reactjs.org)
+[![Odoo](https://img.shields.io/badge/Odoo-16.4-purple.svg)](https://www.odoo.com)
+[![Symfony](https://img.shields.io/badge/Symfony-6.4-black.svg)](https://symfony.com)
+[![Laravel](https://img.shields.io/badge/Laravel-10.2-red.svg)](https://laravel.com)
 
- 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS3](https://img.shields.io/badge/CSS3-W3C-orange.svg)](https://www.w3schools.com/css/)
+[![HTML5](https://img.shields.io/badge/HTML5-W3C-red.svg)](https://www.w3.org/html/)
+[![PHP](https://img.shields.io/badge/PHP-8.3-blue.svg)](https://www.php.net)
+[![XML](https://img.shields.io/badge/XML-1.0-blue.svg)](https://www.w3.org/XML/)
+
+### Languages
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org)
+[![C++](https://img.shields.io/badge/C++-20-blue.svg)](https://www.w3schools.com/cpp/)
+[![Java](https://img.shields.io/badge/Java-21-red.svg)](https://www.java.com)
+[![Dart](https://img.shields.io/badge/Dart-3.1-blue.svg)](https://dart.dev)
+
+### DevOps
+[![Docker](https://img.shields.io/badge/Docker-24.0-blue.svg)](https://www.docker.com)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-7.1-blue.svg)](https://www.virtualbox.org)
+[![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange.svg)](https://www.linux.org)
+[![Git](https://img.shields.io/badge/Git-2.42-orange.svg)](https://git-scm.com)
+
+### Databases
+[![Firebase](https://img.shields.io/badge/Firebase-Realtime-orange.svg)](https://firebase.google.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green.svg)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-8.1-blue.svg)](https://www.mysql.com)
+[![Oracle](https://img.shields.io/badge/Oracle-23c-red.svg)](https://www.oracle.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org)
+[![SQLite](https://img.shields.io/badge/SQLite-3.42.0-lightgrey.svg)](https://www.sqlite.org)
+
+### Design
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-Design-red.svg)](https://www.adobe.com/products/xd.html)
+[![Figma](https://img.shields.io/badge/Figma-Design-black.svg)](https://www.figma.com)
