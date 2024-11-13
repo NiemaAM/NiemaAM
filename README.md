@@ -27,7 +27,7 @@
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 
 ### ⚙️ DevOps
